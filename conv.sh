@@ -1,13 +1,11 @@
 #!/bin/bash
-rm -f bfj.json
-curl https://qnblackcat.github.io/AltStore/apps.json > taltrepo.json
+rm -f bfj
+curl -sS https://qnblackcat.github.io/AltStore/apps.json > taltrepo.json
 
-echo "
-{
+echo "{
     \"sourceDesc\": \"BF Version of Qn's AltStore Repo\",
     \"sourceURL\": \"https://api.ios222.com/appstore/apps\",
-    \"sourceApps\": [ 
-" >> bfj.json
+    \"sourceApps\": [ " >> bfj
 
 n=0
 while [[ "$(jq -r ".apps[$n]" taltrepo.json)" != "null" ]]; do
@@ -20,26 +18,24 @@ while [[ "$(jq -r ".apps[$n]" taltrepo.json)" != "null" ]]; do
     appDownloadURL="$(jq -r ".apps[$n].downloadURL" taltrepo.json)"
     appVersion="$(jq -r ".apps[$n].version" taltrepo.json)"
     appIconURL="$(jq -r ".apps[$n].iconURL" taltrepo.json)"
-    echo "
-{
-    \"appUpdateTime\": \"$appUpdateTime\",
-    \"appDesc\": \"j\",
-    \"appType\": 0,
-    \"appSize\": $appSize,
-    \"appID\": $appID,
-    \"appName\": \"$appName\",
-    \"appIsLock\": false,
-    \"appBID\": \"$appBID\",
-    \"appDownloadURL\": \"$appDownloadURL\",
-    \"appVersion\": \"$appVersion\",
-    \"appIconURL\": \"$appIconURL\"
-" >> bfj.json
+    echo "{
+        \"appUpdateTime\": \"$appUpdateTime\",
+        \"appDesc\": \"j\",
+        \"appType\": 0,
+        \"appSize\": $appSize,
+        \"appID\": $appID,
+        \"appName\": \"$appName\",
+        \"appIsLock\": false,
+        \"appBID\": \"$appBID\",
+        \"appDownloadURL\": \"$appDownloadURL\",
+        \"appVersion\": \"$appVersion\",
+        \"appIconURL\": \"$appIconURL\"" >> bfj
 
     if [[ "$(jq -r ".apps[$n+1]" taltrepo.json)" == "null" ]]; then
-        echo "}" >> bfj.json
+        echo "  }" >> bfj
         break
     else
-        echo "}," >> bfj.json
+        echo "  }," >> bfj
     fi
     n=$((n + 1))
 done
@@ -50,8 +46,6 @@ echo "
     \"sourceName\": \"Alaise BF Repo\",
     \"sourceUnlockURL\": \"\",
     \"sourceGetCodeURL\": \"\"
-}
-
-" >> bfj.json
+}" >> bfj
 
 rm -f taltrepo.json
