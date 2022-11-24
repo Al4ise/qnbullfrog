@@ -1,0 +1,34 @@
+
+      {
+        "appUpdateTime": "2022-09-17T15:00:00+08:00",
+        "appDesc": "unc0ver是越狱工具，这意味着您可以自由地对您的iOS设备做任何您想做的事情。unc0ver允许您更改您想要的内容并在您的权限范围内操作，解锁您的iOS设备的真正力量。\nunc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.",
+        "appType": 0,
+        "appSize": 54489484,
+        "appID": 10000,
+        "appName": "unc0ver",
+        "appIsLock": false,
+        "appBID": "science.xnu.undecimus",
+        "appDownloadURL": "https://api.ios222.com/appstore/files/6379bc527dc0bd599fdc49fdac1e3c44408eead8/unc0ver.ipa",
+        "appVersion": "8.0.2",
+        "appIconURL": "https://api.ios222.com/appstore/icons/unc0ver.png"
+      },
+      {
+        "appUpdateTime": "2022-10-19T15:00:00+08:00",
+        "appDesc": "UTM 是适用于 iOS 和 macOS 的全功能系统模拟器和虚拟机主机。它基于 QEMU。简而言之，它允许您在 Mac、iPhone 和 iPad 上运行 Windows、Linux 等。更多信息请访问https://getutm.app/和https://mac.getutm.app/ \nUTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU. In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad. More information at https://getutm.app/ and https://mac.getutm.app/",
+        "appType": 0,
+        "appSize": 155169818,
+        "appID": 10001,
+        "appName": "UTM",
+        "appIsLock": false,
+        "appBID": "com.utmapp.UTM",
+        "appDownloadURL": "https://api.ios222.com/appstore/files/634907f039f380d5c7cb4adcbf85e9bdc925d765/UTM.ipa",
+        "appVersion": "3.2.4",
+        "appIconURL": "https://api.ios222.com/appstore/icons/utm.png"
+      }
+    ],
+    "sourceLogoURL": "https://api.ios222.com/logo60x60.png",
+    "sourceName": "Alaise BF Repo",
+    "sourceUnlockURL": "",
+    "sourceGetCodeURL": ""
+  }
+  

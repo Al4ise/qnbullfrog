@@ -1,0 +1,167 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "level3tjg",
+      "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2022.41.0-1.0.8/RedditFilter_2022.41.0_1.0.8.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+      "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
+      "name": "RedditFilter",
+      "screenshotURLs": [
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+      ],
+      "size": 142121615,
+      "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+      "tintColor": "ff4600",
+      "version": "2022.41.0",
+      "versionDate": "2022-11-06T12:00:00-01:00",
+      "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Alfhaily & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EYk6S-C1BENEsVwsZu1VmO0B8zDsi-OIOI7q_4XwtJynkA?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+      "name": "Rocket for Instagram",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
+      "tintColor": "c72a96",
+      "version": "250.0",
+      "versionDate": "2022-09-12T12:00:00-01:00",
+      "versionDescription": "Changelog v250.0-3.8.0:\n- https://apt.alfhaily.me/depiction/4EYOXC"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtubecercubelegacy",
+      "developerName": "Alfhaily & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Eeeh0Cxz3nFLh9DKqUIs3C0BIbPTA60ipOgEPW4O78qfqQ?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+      "localizedDescription": "Unfortunately, AltStore can not handle two (or more) applications that have the same bundle ID (uYouPlus, CercubePlus and CercubePlus (Legacy)). I have no other choice except to modify the bundle ID of CercubePlus (Legacy). Thus, you won't be able to install CercubePlus (Legacy) directly through AltStore. You still can download the IPA like normal though.\n\nFull infomation about CercubePlus (Legacy) is available on my Github: https://github.com/qnblackcat/CercubePlus/tree/iOS-12/\n\nCredits: Please keep the Credits if you re-up CercubePlus (Legacy)! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlockLegacy, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, and Return YouTube Dislike.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\n- YTUHD is removed because most iOS 12 devices don't support VP9 codec (Hardware restriction).\n- iOS 12 doesn't have the built-in Picture in Picture mode like iOS 14+, so YouPiP must be removed as well.\n- Hide Cast button may not work.\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk!",
+      "name": "CercubePlus (Legacy)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+      ],
+      "size": 112617062,
+      "subtitle": "CercubePlus but for iOS 12!",
+      "tintColor": "e22e2e",
+      "version": "17.36.4",
+      "versionDate": "2022-09-16T14:00:00-01:00",
+      "versionDescription": "v17.36.4 (5.3.11): The information can be found at\nhttps://github.com/qnblackcat/CercubePlus/tree/iOS-12"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Michael Lema & Qn_",
+      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EWEdhH_a8T5FmeQ7104KY70Bm--b0Vg_e9r71yWVdru-aA?download=1",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
+      "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
+      "name": "Facebook Wolf",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
+      ],
+      "size": 152672665,
+      "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
+      "tintColor": "478EE2",
+      "version": "372.0",
+      "versionDate": "2022-06-24T14:00:00-00:30",
+      "versionDescription": "v372.0 (2.1): Updated to the latest version of Facebook app"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "BandarHL",
+      "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v9.2-2.9.2/BHTwitterPlus_9.2-2.9.2.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png",
+      "localizedDescription": "Full infomation about BHTwitterPlus (BHTwitter+) is available on my Github: https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/\n\nCredits: \n- BandarHL - for BHTwitter and his solution for Twitter-login (Sideload).\n- haoict - developer of Twitter No Ads.\n- Tanner B - solution for Skip Analytics URL (t.co).\n\nKwown issues:\n- \"Skip Analytic URL\" breaks embed pictures as described here.\n- Analytics link in cards can't be skipped.\n- Download videos may not work if you use appdb. In that case, please change the \"Identity type to use for appdb PRO\" in the \"appdb configuration\" from Auto to Development.\n",
+      "name": "BHTwitter (deprecated)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2396.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2397.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2399.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2400.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2401.jpg"
+      ],
+      "size": 78643200,
+      "subtitle": "The sideloaded version of BHTwitter, made by @BandarHL, requires iOS 13.4+ (deprecated)",
+      "tintColor": "3f9de5",
+      "version": "9.2",
+      "versionDate": "2022-03-07T14:00:00-07:00",
+      "versionDescription": "v9.2 (2.9.2): The changelog can be found at\nhttps://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/latest\n BHTwitterPlus is now deprecated. Follow @BandarHL on Twitter (https://twitter.com/bandarhl?s=21) to get the latest version of BHTwitter."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtubecercube",
+      "developerName": "Alfhaily & Qn_",
+      "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.43.1-5.3.11/CercubePlus_17.43.1_5.3.11.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+      "localizedDescription": "Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though.\n\nCredits: Please keep the Credits if you re-up CercubePlus! \n- https://github.com/qnblackcat/CercubePlus#credits\n\nFull infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\n",
+      "name": "CercubePlus (Cercube+)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1521.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+      ],
+      "size": 101187584,
+      "subtitle": "Cercube with extra features! Requires iOS 14.0 and later.",
+      "tintColor": "e22a41",
+      "version": "17.43.1",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": "v17.43.1 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "MiRO92 & Qn_",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.43.1-2.1/uYouPlus_17.43.1_2.1.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+      "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 13.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
+      "name": "uYouPlus (uYou+)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+      ],
+      "size": 111886527,
+      "subtitle": "A modified version of uYou with extra features! Requires iOS 14.0 and later.",
+      "tintColor": "e85567",
+      "version": "17.43.1",
+      "versionDate": "2022-11-06T16:00:00-01:00",
+      "versionDescription": "v17.43.1 (2.1): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/latest"
+    }
+  ],
+  "identifier": "com.qn.altstorerepo",
+  "name": "Qn_'s AltStore Repo",
+  "news": [
+    {
+      "appID": "com.reddit.Reddit",
+      "caption": "Finally, Reddit can be sideloaded with the ability to block ads and more...",
+      "date": "2022-10-26",
+      "identifier": "reddit-now-available",
+      "imageURL": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG",
+      "notify": false,
+      "tintColor": "ff4600",
+      "title": "RedditFilter is out!"
+    }
+  ],
+  "userInfo": {}
+}
