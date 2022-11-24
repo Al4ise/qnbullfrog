@@ -3,10 +3,9 @@
     "sourceDesc": "BF Version of Qn's AltStore Repo",
     "sourceURL": "https://api.ios222.com/appstore/apps",
     "sourceApps": [ 
-
 {
     "appUpdateTime": "2022-11-06T12:00:00-01:00",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 142121615,
     "appID": 0,
@@ -16,10 +15,11 @@
     "appDownloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2022.41.0-1.0.8/RedditFilter_2022.41.0_1.0.8.ipa",
     "appVersion": "2022.41.0",
     "appIconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png"
+
 },
 {
     "appUpdateTime": "2022-09-12T12:00:00-01:00",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 91750400,
     "appID": 1,
@@ -29,10 +29,11 @@
     "appDownloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EYk6S-C1BENEsVwsZu1VmO0B8zDsi-OIOI7q_4XwtJynkA?download=1",
     "appVersion": "250.0",
     "appIconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png"
+
 },
 {
     "appUpdateTime": "2022-09-16T14:00:00-01:00",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 112617062,
     "appID": 2,
@@ -42,10 +43,11 @@
     "appDownloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Eeeh0Cxz3nFLh9DKqUIs3C0BIbPTA60ipOgEPW4O78qfqQ?download=1",
     "appVersion": "17.36.4",
     "appIconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png"
+
 },
 {
     "appUpdateTime": "2022-06-24T14:00:00-00:30",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 152672665,
     "appID": 3,
@@ -55,10 +57,11 @@
     "appDownloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EWEdhH_a8T5FmeQ7104KY70Bm--b0Vg_e9r71yWVdru-aA?download=1",
     "appVersion": "372.0",
     "appIconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png"
+
 },
 {
     "appUpdateTime": "2022-03-07T14:00:00-07:00",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 78643200,
     "appID": 4,
@@ -71,7 +74,7 @@
 },
 {
     "appUpdateTime": "2022-11-06T16:00:00-01:00",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 101187584,
     "appID": 5,
@@ -81,10 +84,11 @@
     "appDownloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.43.1-5.3.11/CercubePlus_17.43.1_5.3.11.ipa",
     "appVersion": "17.43.1",
     "appIconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png"
+
 },
 {
     "appUpdateTime": "2022-11-06T16:00:00-01:00",
-    "appDesc": "",
+    "appDesc": "j",
     "appType": 0,
     "appSize": 111886527,
     "appID": 6,
@@ -94,6 +98,7 @@
     "appDownloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.43.1-2.1/uYouPlus_17.43.1_2.1.ipa",
     "appVersion": "17.43.1",
     "appIconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png"
+
 }
 ],
     "sourceLogoURL": "https://api.ios222.com/logo60x60.png",
@@ -101,4 +106,3 @@
     "sourceUnlockURL": "",
     "sourceGetCodeURL": ""
 }
-

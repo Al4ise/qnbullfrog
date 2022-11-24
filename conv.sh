@@ -2,7 +2,7 @@
 rm -f bfj.json
 curl https://qnblackcat.github.io/AltStore/apps.json > taltrepo.json
 
-printf "
+echo "
 {
     \"sourceDesc\": \"BF Version of Qn's AltStore Repo\",
     \"sourceURL\": \"https://api.ios222.com/appstore/apps\",
@@ -20,10 +20,10 @@ while [[ "$(jq -r ".apps[$n]" taltrepo.json)" != "null" ]]; do
     appDownloadURL="$(jq -r ".apps[$n].downloadURL" taltrepo.json)"
     appVersion="$(jq -r ".apps[$n].version" taltrepo.json)"
     appIconURL="$(jq -r ".apps[$n].iconURL" taltrepo.json)"
-    printf "
+    echo "
 {
     \"appUpdateTime\": \"$appUpdateTime\",
-    \"appDesc\": \"\",
+    \"appDesc\": \"j\",
     \"appType\": 0,
     \"appSize\": $appSize,
     \"appID\": $appID,
@@ -36,15 +36,15 @@ while [[ "$(jq -r ".apps[$n]" taltrepo.json)" != "null" ]]; do
 " >> bfj.json
 
     if [[ "$(jq -r ".apps[$n+1]" taltrepo.json)" == "null" ]]; then
-        printf "}" >> bfj.json
+        echo "}" >> bfj.json
         break
     else
-        printf "}," >> bfj.json
+        echo "}," >> bfj.json
     fi
     n=$((n + 1))
 done
 
-printf "
+echo "
 ],
     \"sourceLogoURL\": \"https://api.ios222.com/logo60x60.png\",
     \"sourceName\": \"Alaise BF Repo\",
@@ -53,3 +53,5 @@ printf "
 }
 
 " >> bfj.json
+
+rm -f taltrepo.json
